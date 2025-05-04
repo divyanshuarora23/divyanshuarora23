@@ -33,14 +33,14 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn / Portfolio coming soon!
+- 📧 Email: divyanshu.arora@hotmail.com
+- 💼 LinkedIn in/divyanshuarora23/
 
 ---
 
 ### 🔖 Fun Fact
 
-I once simulated ransomware behavior (in a safe sandbox!) just to learn how encryption payloads work 😄
+I once locked myself out while trying to simulate ransomware (in a safe sandbox!) and have successfully corrupted more than a few Windows installs in my journey to learn more about how things break — and how to fix them 🔥💻
 
 ---
 
