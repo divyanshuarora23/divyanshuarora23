@@ -37,6 +37,7 @@
 ### 📫 Contact Me
 
 - 📧 Email: divyanshu.arora@hotmail.com
+  
 - 💼 LinkedIn  <a href="(https://www.linkedin.com/in/divyanshuarora23/)">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="80"/>
 </a>
