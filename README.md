@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Divyanshu 👋</h1>
 
 <p align="center">
   🔍 A curious cybersecurity enthusiast always eager to learn and explore the digital world!
