@@ -23,7 +23,8 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-- 🛠 Tools:### 🧰 Cybersecurity Tools
+- 🛠 Tools:
+- ### 🧰 Cybersecurity Tools
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-005CAB?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logoColor=white)
